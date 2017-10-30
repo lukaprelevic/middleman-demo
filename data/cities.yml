@@ -1,0 +1,13 @@
+- name: "Paris"
+  address: "12 Villa Gaudelet"
+  last_seats: true
+- name: "London"
+  address: "138 Kingsland road"
+  last_seats: false
+- name: "Barcelona"
+  address: "Las Ramblas"
+  last_seats: false
+- name: "Berlin"
+  address: "12 checkpoint charlie"
+  last_seats: true
+
